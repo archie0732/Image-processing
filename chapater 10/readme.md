@@ -10,3 +10,11 @@
 ```txt
 0 0 1 1 2 2 3 3 -> 112233
 ```
+<img width="1109" height="673" alt="圖片" src="https://github.com/user-attachments/assets/0f5f39c6-3f02-4eed-8bd9-4becaa15e91d" />
+
+形狀數(旋轉)
+
+- c 原本沒改過
+- c1 位移 (旋轉) 過
+
+- (c - c1) % 4 => 要旋轉的角度
